@@ -11,5 +11,6 @@ class Shoe
 end
 
 sho = Shoe.new("hh")
+sho2 = Shoe.new("hh")
 p Shoe::BRANDS
 binding.pry
