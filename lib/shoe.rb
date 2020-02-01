@@ -6,3 +6,6 @@ class Shoe
   end
   
 end
+
+sho = Shoe.new("hh")
+she.brand 
