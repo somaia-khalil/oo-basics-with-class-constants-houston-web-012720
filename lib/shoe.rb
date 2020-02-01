@@ -1,3 +1,4 @@
+require ' pry'
 class Shoe
   BRANDS = [ ]
   def initialize(brand)
