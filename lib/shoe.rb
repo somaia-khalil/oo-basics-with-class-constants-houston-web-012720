@@ -8,4 +8,4 @@ class Shoe
 end
 
 sho = Shoe.new("hh")
-she.brand 
+Shoe :: BRANDS
