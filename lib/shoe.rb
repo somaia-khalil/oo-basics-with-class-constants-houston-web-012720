@@ -6,7 +6,7 @@ class Shoe
     #   BRANDS << brand 
     # end
     BRANDS << brand 
-    BRANDS = BRANDS.uniq 
+    BRANDS << BRANDS.uniq 
 
   end
   
