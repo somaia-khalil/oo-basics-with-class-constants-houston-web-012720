@@ -1,5 +1,5 @@
 class Shoe
-  BRANDS
+  BRANDS = [ ]
   def initialize(brand)
   end
   
