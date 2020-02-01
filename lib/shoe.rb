@@ -8,5 +8,4 @@ class Shoe
 end
 
 sho = Shoe.new("hh")
-Shoe :: BRANDS
-Shoe :: @@all
+Shoe::BRANDS
