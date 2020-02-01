@@ -12,3 +12,4 @@ end
 
 sho = Shoe.new("hh")
 Shoe::BRANDS
+binding.pry
